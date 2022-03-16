@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/nalanda101/Space%20Game%20-%20Web%20-%20Pipeline/_apis/build/status/mariathomas87.mslearn-tailspin-spacegame-web?branchName=feature%2FhomepageUpdate)](https://dev.azure.com/nalanda101/Space%20Game%20-%20Web%20-%20Pipeline/_build/latest?definitionId=1&branchName=feature%2FhomepageUpdate)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
